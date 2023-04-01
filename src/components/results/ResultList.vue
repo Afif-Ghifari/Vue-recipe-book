@@ -43,11 +43,11 @@ const startSearch = (keyword) => {
 
 const renderResult = (res, keyword) => {
     if(res){
-        resultMessage.value = `${res.length} hasil pencarian dari "${keyword}"`
+        resultMessage.value = `${res.length} search results "${keyword}"`
         results.value = res
         noResultMessage.value = false
     }else{
-        resultMessage.value = `hasil pencarian dari "${keyword}" tidak ditemukan`
+        resultMessage.value = `Recipe for "${keyword}" is not found`
         results.value = ''
         noResultMessage.value = true
     }
