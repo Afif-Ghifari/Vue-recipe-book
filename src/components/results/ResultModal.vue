@@ -64,7 +64,7 @@ export default {
 }
 
 .img-recipe {
-    @apply max-w-full py-3 object-cover object-center rounded-xl mx-5 flex
+    @apply max-w-full py-3 object-cover object-center rounded-xl mx-auto md:mx-5 flex
 }
 .tag {
     @apply bg-amber-500 text-white mt-3 ml-1 py-1 px-5 w-fit rounded-xl
