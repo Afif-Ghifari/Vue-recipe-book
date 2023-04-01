@@ -1,7 +1,7 @@
 <template>
     <div class="flex flex-col items-center">
         <div class="w-[90%] h-auto px-6 pt-12 mx-auto">
-            <h1 v-if="isLoading">Memuat resep...</h1>
+            <h1 v-if="isLoading">Loading recipes...</h1>
             <span v-if="noResultMessage == false">
                 <h1 v-if="resultMessage">{{ resultMessage }}</h1>
             </span>
