@@ -8,10 +8,10 @@
                 <div class="flex flex-col px-6 py-3">
                     <p class="tag">{{ result.strCategory }}</p>
                     <h1 class="my-1">{{ result.strMeal}}</h1>
-                    <p class="my-1">Instruksi: </p>
+                    <p class="my-1">Instructions: </p>
                     <p class="my-1 text-justify">{{ result.strInstructions.substring(0, 100)+ '. . .' }}</p>
 
-                    <button class="btn-see-more" @click="toggleModal">Lihat selengkapnya</button>
+                    <button class="btn-see-more" @click="toggleModal">Show More</button>
                 </div>
             </div>
         </div>

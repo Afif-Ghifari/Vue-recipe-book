@@ -16,7 +16,7 @@
                     </ul>
                 </div>
                 <div class="my-2">
-                    <p class="font-bold">Instruksi:</p>
+                    <p class="font-bold">Instructions:</p>
                     <p>{{ result.strInstructions }}</p>
                 </div>
             </div>
