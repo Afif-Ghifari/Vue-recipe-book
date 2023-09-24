@@ -6,7 +6,7 @@
                 <h3 class="text-4xl text-center md:text-2xl">RECIFOOD</h3>
             </div>
             <div class="">
-                <a href="">
+                <a href="https://github.com/Afif-Ghifari/Vue-recipe-book.git">
                     <i class="bi bi-github text-4xl"></i>
                 </a>
             </div>
