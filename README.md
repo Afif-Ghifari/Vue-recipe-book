@@ -1,5 +1,12 @@
 # recipe-book
 
+# ATTENTION!
+
+## THIS REPOSITORY IS OUTDATED
+## YOU CAN USE THE UPDATED VERSION [HERE(https://github.com/Afif-Ghifari/Vue-recipe-book2)]
+
+
+
 ## Project setup
 ```
 npm install
